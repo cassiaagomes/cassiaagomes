@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, sou a Cássia! 👋
 
-<!--
-**cassiaagomes/cassiaagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Estudante de Sistemas para Internet, apaixonada por resolver problemas e explorar insights através da análise de dados.
 
-Here are some ideas to get you started:
+📊 Tenho habilidades sólidas em análise de dados e modelagem, além de ser fã do Python 🐍, minha linguagem de programação favorita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Todo o meu desenvolvimento tem sido uma experiência incrível .
+
+💻 Além disso, tenho conhecimentos em manutenção de computadores, que me permitem enxergar a tecnologia de forma holística.
+
+🌎 Tenho aprimorado meus conhecimentos em inglês, estando pronta para explorar ambientes internacionais e aproveitar recursos técnicos e acadêmicos valiosos.
+
+🚀 Busco oportunidades de estágio em TI, onde posso aplicar minhas habilidades em uma equipe dinâmica e inovadora. Adoro compartilhar conhecimento e contribuir para projetos que impulsionem a inovação e o sucesso.
+
+
+### Principais Interesses:
+🔍 Análise de Dados | 🐍 Python | Javascript 🖥️ | 🖥️ Desenvolvimento | 📈 Power BI
+
+![Cassiaagomes GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiaagomes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaagomes&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
