@@ -16,6 +16,3 @@
 ### Principais Interesses:
 🔍 Análise de Dados | 🐍 Python | 🖥️ Javascript  | 🖥️ Desenvolvimento | 📈 Power BI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiaagomes&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![Cassiaagomes GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiaagomes&show_icons=true&theme=radical)
